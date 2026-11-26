@@ -1,0 +1,1 @@
+# aspnetcore11-minimalapis-otel-grafana_contagemacessos-simulacaofalhas-v2
